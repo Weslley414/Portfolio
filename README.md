@@ -18,7 +18,7 @@ Sou formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por design
 Atualmente focado em:
 
 - 🎨 **UI/UX Design**
-- 💻 **Front-end**
+- 💻 **Full-stack**
 - 🤖 **Inteligência Artificial**
 - 🧩 Arquitetura e boas práticas
 
@@ -77,11 +77,13 @@ Criação de interfaces modernas, design system, usabilidade e prototipação.
 ### 💻 **Front-end Development**
 Construção de interfaces responsivas, performáticas e acessíveis.
 
+### 🧩 **Full Stack Development**
+Desenvolvimento de aplicações completas, integrando front-end e back-end, com foco em performance, segurança e escalabilidade.
+
 ### 🤖 **Inteligência Artificial**
 Estudos focados em automação e produtividade aplicada ao desenvolvimento.
 
 </div>
-
 ---
 
 ## 📌 Repositórios Importantes
