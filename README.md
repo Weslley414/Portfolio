@@ -2,7 +2,7 @@
   
 
   # 👋 Hey! Eu sou o **José Weslley**
-  ### 💻 Desenvolvedor Full-stack • 🎨 UI/UX Designer • 🤖 Estudante de Inteligência Artificial
+  ### 💻 Desenvolvedor Full Stack (em evolução) • ⚡ JavaScript • Desenvolvimento Web • Front-end • 🎓 Formado em Análise e Desenvolvimento de Sistemas
   
   <p>22 anos • Rio de Janeiro, Brasil 🇧🇷</p>
 
